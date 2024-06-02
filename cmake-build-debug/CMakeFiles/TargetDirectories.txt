@@ -1,0 +1,5 @@
+C:/Users/user/CLionProjects/task4_f/cmake-build-debug/CMakeFiles/task4_f.dir
+C:/Users/user/CLionProjects/task4_f/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/task4_f/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/CLionProjects/task4_f/cmake-build-debug/CMakeFiles/task4_f_autogen_timestamp_deps.dir
+C:/Users/user/CLionProjects/task4_f/cmake-build-debug/CMakeFiles/task4_f_autogen.dir
